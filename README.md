@@ -52,6 +52,8 @@ I’m currently a fourth-semester Data Science student at BINUS University 🎓,
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-4B8BBE?logo=fastapi&logoColor=white)
 
 ### 📫 Let’s connect!
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?logo=instagram&logoColor=white)](https://www.instagram.com/natashakaylaa_/)
