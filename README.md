@@ -61,5 +61,5 @@ I’m currently a fourth-semester Data Science student at BINUS University 🎓,
 
 ### 📫 Let’s connect!
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?logo=instagram&logoColor=white)](https://www.instagram.com/natashakaylaa_/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natasha-kayla-cahyadi-3481ab305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natashakaylacahyadiutm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:natashakaylaa@gmail.com)
