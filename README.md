@@ -1,6 +1,6 @@
 # Hello there, I'm Natasha Kayla 🤗🙌
 
-I’m currently a fourth-semester Data Science student at BINUS University 🎓, driven by a deep interest in data analysis 🔍 and a continuous desire to expand my knowledge in the field.
+I’m currently a fifth-semester Data Science student at BINUS University 🎓, driven by a deep interest in data analysis 🔍 and a continuous desire to expand my knowledge in the field.
 
 ## 📌 A brief about me
 - 💼 Current Job : Student at Binus University
